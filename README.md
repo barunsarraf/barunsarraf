@@ -1,9 +1,9 @@
 
 ![Cover](https://github.com/barunsarraf/barunsarraf/blob/main/ezgif-1-5b06bc9c5a00.gif)
 <p align="center">
- 👋 I'm Barun Sarraf,a Full Stack Developer 💻<br/>
+ 👋 I'm Barun Sarraf, a Full Stack Developer 💻<br/>
 🔭 I love to explore everything 😁 <br/>
-⏳ Experimenting with JS, python,Java<br/>
+⏳ Experimenting with JS, python,Java and front-end stacks<br/>
 🔬 Always ready to collaborate for Dev Experiments<br/>
 😍 I enjoy creating cross platform apps, UI's, digital designs.
 <br/>
